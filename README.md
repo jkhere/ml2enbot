@@ -5,4 +5,6 @@ This projects attempts to extend the work of Kailash Nadh in the area of reverse
 The Java implementation is based on Javascript code found at https://github.com/knadh/ml2en 
 
 Using Twitter for Java (http://twitter4j.org/en) 
+Maven and plans to do a Docker image. 
+
 
